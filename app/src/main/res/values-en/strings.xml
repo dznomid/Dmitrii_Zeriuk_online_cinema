@@ -2,4 +2,11 @@
 <resources>
     <string name="app_name">Dmitrii_Zeriuk_online_cinema</string>
     <string name="motivation_text">If I said anything, if I wrote anything, it was the eyes of the skies. My beloved\'s eyes...</string>
+    <string name="button1">Search</string>
+    <string name="button2">Popular</string>
+    <string name="button3">Raw drops</string>
+    <string name="button4">Random movie</string>
+    <string name="button5">Categories</string>
+    <string name="button6">Propose a movie</string>
+    <string name="button7">Find what I love! [in progress...]</string>
 </resources>
