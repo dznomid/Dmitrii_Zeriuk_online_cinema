@@ -4,7 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="@color/white">
+
 
     <LinearLayout
         android:id="@+id/menu"
@@ -24,46 +26,59 @@
             android:layout_height="50dp"
             android:id="@+id/button1"
             android:text="@string/button1"
+            android:textColor="@color/white"
             android:onClick="onClickToast"
             android:textSize="20sp"
+            android:gravity="center"
+
             android:background="?android:attr/selectableItemBackground"/>
         <Button
             android:layout_width="match_parent"
+            android:gravity="center"
             android:layout_height="50dp"
             android:id="@+id/button2"
             android:text="@string/button2"
+            android:textColor="@color/white"
             android:onClick="onClickToast"
             android:textSize="20sp"
             android:background="?android:attr/selectableItemBackground"/>
         <Button
             android:layout_width="match_parent"
             android:layout_height="50dp"
+            android:gravity="center"
             android:id="@+id/button3"
             android:text="@string/button3"
+            android:textColor="@color/white"
             android:onClick="onClickToast"
             android:textSize="20sp"
             android:background="?android:attr/selectableItemBackground"/>
         <Button
             android:layout_width="match_parent"
             android:layout_height="50dp"
+            android:gravity="center"
             android:id="@+id/button4"
             android:text="@string/button4"
+            android:textColor="@color/white"
             android:onClick="onClickToast"
             android:textSize="20sp"
             android:background="?android:attr/selectableItemBackground"/>
         <Button
             android:layout_width="match_parent"
             android:layout_height="50dp"
+            android:gravity="center"
             android:id="@+id/button5"
             android:text="@string/button5"
+            android:textColor="@color/white"
             android:onClick="onClickToast"
             android:textSize="20sp"
             android:background="?android:attr/selectableItemBackground"/>
         <Button
             android:layout_width="match_parent"
             android:layout_height="50dp"
+            android:gravity="center"
             android:id="@+id/button6"
             android:text="@string/button6"
+            android:textColor="@color/white"
             android:onClick="onClickToast"
             android:textSize="20sp"
             android:background="?android:attr/selectableItemBackground"/>
@@ -71,9 +86,11 @@
         <Button
             android:id="@+id/button7"
             android:layout_width="match_parent"
+            android:gravity="center"
             android:layout_height="50dp"
             android:background="?android:attr/selectableItemBackground"
             android:text="@string/button7"
+            android:textColor="@color/white"
             android:onClick="onClickToast"
             android:textSize="12sp" />
     </LinearLayout>
@@ -151,6 +168,7 @@
         app:layout_constraintStart_toStartOf="parent"
         android:autoLink="web"
         android:clickable="true"
-        android:text="изображения взяты с ресурса https://www.kinopoisk.ru/"/>
+        android:textColorLink="@android:color/holo_blue_light"
+        android:text="изображени взяты с ресурса https://www.kinopoisk.ru/"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

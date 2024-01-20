@@ -3,6 +3,7 @@ package com.jimmyeatworm.dmitrii_zeriuk_online_cinema
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.google.android.material.appbar.AppBarLayout
 
 import android.widget.Button
 import android.widget.Toast
