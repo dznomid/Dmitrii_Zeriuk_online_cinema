@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Dmitrii_Zeriuk_online_cinema</string>
+    <string name="motivation_text">Если я чего сказал, если чего написал, то всему виною глаза-небеса. Любимой моей глаза...</string>
+    <string name="button1">Поиск по сайту</string>
+    <string name="button2">Популярные фильмы</string>
+    <string name="button3">Горячие новинки</string>
+    <string name="button4">Случайный фильм</string>
+    <string name="button5">Категории</string>
+    <string name="button6">Предложить фильм</string>
+    <string name="button7">Найти то что я люблю [в разработке...]</string>
 </resources>
