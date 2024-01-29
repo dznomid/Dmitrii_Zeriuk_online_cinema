@@ -9,4 +9,8 @@
     <string name="button5">Categories</string>
     <string name="button6">Propose a movie</string>
     <string name="button7">Find what I love! [in progress...]</string>
+    <string name="menu_settings_title">Settings</string>
+    <string name="menu_favorites_title">Favorites</string>
+    <string name="menu_watch_later_title">Watch later</string>
+    <string name="menu_selections_title">Selections</string>
 </resources>

@@ -8,4 +8,10 @@
     <string name="button5">Категории</string>
     <string name="button6">Предложить фильм</string>
     <string name="button7">Найти то что я люблю [в разработке...]</string>
+    <string name="menu_settings_title">Настройки</string>
+    <string name="menu_favorites_title">Избранное</string>
+    <string name="menu_watch_later_title">Смотреть позже</string>
+    <string name="menu_selections_title">Подборки</string>
+    <string name="page_title" translatable="false">LET\'S GOTCH</string>
+
 </resources>
